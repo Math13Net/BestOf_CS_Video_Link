@@ -19,6 +19,7 @@ interesting links to Computer Science Video ... let's progress
  "the 1% inspiration is still very important"  
  "everything going into modern calculation is noisy, so why the answer would have to be so clear"  
  "what people don't understand is that u get a determinist answer even so the execusion flow is very underterministic"  
+ "u run the programm 100 times, it never works the same flow but u always get the same answer !"  
  
  
 
