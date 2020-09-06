@@ -21,7 +21,9 @@ interesting links to Computer Science Video ... let's progress
  "everything going into modern calculation is noisy, so why the answer would have to be so clear"  
  "what people don't understand is that u get a determinist answer even so the execusion flow is very underterministic"  
  "u run the programm 100 times, it never works the same flow but u always get the same answer !"  
- "sometimes u hit the limit - u have to restart from scratch every 3 to 5 years"
+ "sometimes u hit the limit - u have to restart from scratch every 3 to 5 years"  
+ "if u want to do a lot of progress in computer architecture every 3 to 5 years u have to re-write one"  
+ 
  
  
  
