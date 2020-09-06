@@ -26,9 +26,9 @@ interesting links to Computer Science Video ... let's progress
  "simple rule of Gordon Moore was double the nb of transitors every 2 years - my operation model is we increase the performance of computers by 2.x every 2 or 3 years"  
  
  
- 
- 
- 
+ #### 1.1 the mess we're in (main microprocessor ingenneer at intel-amd-apple)
+  * [Joe Armstrong](https://youtu.be/lKXe3HUG2l4) :  
+
 
  
 
