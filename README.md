@@ -16,10 +16,13 @@ interesting links to Computer Science Video ... let's progress
 
 #### 1.1 what's a microprocessor from Jim Keller (main microprocessor ingenneer at intel-amd-apple)
  * [Jim Keller](https://youtu.be/Nb2tebYAaOA) :  
+ "every 6 instructions u have to make decision : equal - lower - upper ..."  
  "the 1% inspiration is still very important"  
  "everything going into modern calculation is noisy, so why the answer would have to be so clear"  
  "what people don't understand is that u get a determinist answer even so the execusion flow is very underterministic"  
  "u run the programm 100 times, it never works the same flow but u always get the same answer !"  
+ "sometimes u hit the limit - u have to restart from scratch every 3 to 5 years"
+ 
  
  
 
