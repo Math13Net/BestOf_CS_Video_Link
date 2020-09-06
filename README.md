@@ -23,6 +23,8 @@ interesting links to Computer Science Video ... let's progress
  "u run the programm 100 times, it never works the same flow but u always get the same answer !"  
  "sometimes u hit the limit - u have to restart from scratch every 3 to 5 years"  
  "if u want to do a lot of progress in computer architecture every 3 to 5 years u have to re-write one"  
+ "simple rule of Gordon Moore was double the nb of transitors every 2 years - my operation model is we increase the performance of computers by 2.x every 2 or 3 years"  
+ 
  
  
  
