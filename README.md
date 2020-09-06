@@ -15,9 +15,7 @@ interesting links to Computer Science Video ... let's progress
 ### Chapitre 1 : 
 
 #### 1.1 what's a microprocessor from Jim Keller (main microprocessor ingenneer at intel-amd-apple)
- * [Jim Keller](https://youtu.be/Nb2tebYAaOA) :
- "the 1% inspiration is still very important"
- "if u run a correct program every time u get the save result - that's a language definition statement"
+ * [Jim Keller](https://youtu.be/Nb2tebYAaOA) : "the 1% inspiration is still very important"
  
 
  
