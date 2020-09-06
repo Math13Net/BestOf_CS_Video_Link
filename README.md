@@ -3,8 +3,6 @@ interesting links to Computer Science Video ... let's progress
 
 [Magic Problem Solver Algorithm ;))](https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/)
 
-<a href="https://www.youtube.com/watch?v=gpJvvH8JFn4" target="_blank"><img src="https://github.com/Math13Net/NSI-premiere/blob/master/nsi.jpg" alt="NSI Première" width="120" height="90" border="10" /></a>
-
 ## 🚀 [CS Videos](#CSV)
 
 ------------------------------------------------------------------------------------------------
