@@ -28,6 +28,8 @@ interesting links to Computer Science Video ... let's progress
  
  #### 1.1 the mess we're in from Joe Armstrong (part of Erlang inventors)
   * [Joe Armstrong](https://youtu.be/lKXe3HUG2l4) :  
+  "i took a Friday off cause u i get any work done at the office u get interompted all the time"  
+  
 
 
  
