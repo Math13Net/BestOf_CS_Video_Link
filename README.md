@@ -33,9 +33,9 @@ interesting links to Computer Science Video ... let's progress
 ### Chapitre 1 : Coding
 
 #### 1.1 Best Sellers
- * [Jim Keller](https://youtu.be/Nb2tebYAaOA) :   
- 
- #### [OP?R](https://www.youtube.com/watch?v=MYZ67-Sh7kM)
+ * [Jim Keller](https://youtu.be/Nb2tebYAaOA)  
+   
+ * [OP?R](https://www.youtube.com/watch?v=MYZ67-Sh7kM)
 
  
 
