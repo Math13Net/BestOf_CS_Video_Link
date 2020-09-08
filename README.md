@@ -5,7 +5,7 @@ interesting links to Computer Science Video ... let's progress
 
 ## 🚀 [CS Videos](#CSV)
 
-## 🎶 [CS Jokes](#joke)
+## 🌈 [CS Jokes](#joke)
 
 ## 🎶 [CS Music](#music)
 
